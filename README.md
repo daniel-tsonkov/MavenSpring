@@ -20,5 +20,4 @@ this repo is for maven and JavaFX
     </div>
     <script src="accordion.js"></script>
 </body>
-
 </html>
